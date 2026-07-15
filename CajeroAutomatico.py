@@ -3,14 +3,14 @@
 # Autor: (Escribir nombre del estudiante)
 # ===========================================
 
-saldo = 6900
-pin_correcto = "3456"
+saldo = 2000
+pin_correcto = "9012"
 
 print("===================================")
-print("     CAJERO DEL Banco BBVA")
+print("     CAJERO BANCO INTERBANK")
 print("===================================")
 
-pin = input("Por favor ingrese su PIN: ")
+pin = input("Ingresar PIN: ")
 
 if pin == pin_correcto:
 
